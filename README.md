@@ -1,2 +1,2 @@
 # gym website
- A landing page for gym website  suing only html and css.
+ A landing page for gym website using only html and css.
